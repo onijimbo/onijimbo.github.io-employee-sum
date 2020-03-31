@@ -1,0 +1,26 @@
+{
+  "name": "onijimbo.github.io-employee-sum",
+  "version": "1.0.0",
+  "description": "This is an app that will make an html page that lists information about employees on a particular project. It take prompts from the command line to generate an html page.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/onijimbo/onijimbo.github.io-employee-sum.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/onijimbo/onijimbo.github.io-employee-sum/issues"
+  },
+  "homepage": "https://github.com/onijimbo/onijimbo.github.io-employee-sum#readme",
+  "dependencies": {
+    "inquirer": "^7.1.0"
+  },
+  "devDependencies": {
+    "jest": "^25.1.0"
+  }
+}
